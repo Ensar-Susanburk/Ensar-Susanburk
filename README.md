@@ -1,6 +1,4 @@
 
-
-
 <h1 align="center">Hi 👋, I am Ensar Susanburk</h1>
 <h3 align="center">I am a Software Developer</h3>
 
@@ -49,8 +47,6 @@
 
 <h3 align="left">Languages I Use the Most:</h3>
 <p align="left">
-  <!-- Replace 'your-username' with your actual Vercel username if using a custom instance -->
-  <img src="https://your-username.vercel.app/api/top-langs/?username=Ensar-Susanburk&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=86400" alt="Ensar-Susanburk's Top Languages"/>
+  <!-- Replace 'Ensar-Susanburk' with your GitHub username -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ensar-Susanburk&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=86400" alt="Ensar-Susanburk's Top Languages"/>
 </p>
-
-
