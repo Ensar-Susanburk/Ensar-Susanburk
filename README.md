@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I am Muhammed Turgut</h1>
-<h3 align="center">I am a Mobile Developer</h3>
+<h1 align="center">Hi 👋, I am Ensar Susanburk</h1>
+<h3 align="center">I am a Software Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+am+developing+mobile+applications;Java%2C+Kotlin+and+Android" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+am+Software+Developer+applications" alt="Typing SVG" />
 </p>
 
 <h3 align="left">About Me:</h3>
 <p align="left">
- Hello! I am Muhammed, a developer working on mobile application development. I develop Android applications using Java and Kotlin. My passion for technology and creating new projects drives me to explore and learn more every day.
+ Hello! I work in the field of software development in Ensar
 </p>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
@@ -15,10 +15,10 @@
   <div style="flex: 1;">
     <h3 align="left">Contact Me:</h3>
     <p align="left">
-      <a href="https://www.linkedin.com/in/muhammed-turgut/" target="blank">
+      <a href="https://www.linkedin.com/in/ensar-susanburk-59626b29a/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
       </a>
-      <a href="https://github.com/muhammed-turgut" target="blank">
+      <a href="(https://github.com/Ensar-Susanburk)" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
       </a>
     </p>
