@@ -7,7 +7,7 @@
 
 <h3 align="left">Hakkımda:</h3>
 <p align="left">
- Merhaba! Yazılım geliştirme alanında çalışıyorum, dinamik uygulamalar ve yenilikçi çözümler üretiyorum.
+<h3>Merhaba! Yazılım geliştirme alanında çalışıyorum, dinamik uygulamalar ve inovatif çözümler üretiyorum.</h3> 
 </p>
 
 <h3 align="left">İletişim:</h3>
