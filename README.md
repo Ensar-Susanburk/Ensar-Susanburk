@@ -2,7 +2,7 @@
 <h3 align="center">Ben bir Yazılım Geliştiriciyim</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Ben+bir+Yazılım+Geliştiricisiyim" alt="Yazı SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Ben+bir+Yazılım+Geliştiriciyim" alt="Yazı SVG" />
 </p>
 
 <h3 align="left">Hakkımda:</h3>
